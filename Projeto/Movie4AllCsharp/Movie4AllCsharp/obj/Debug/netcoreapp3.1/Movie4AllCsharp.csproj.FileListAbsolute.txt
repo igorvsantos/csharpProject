@@ -1,0 +1,13 @@
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.exe
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.deps.json
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.runtimeconfig.json
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.dll
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\bin\Debug\netcoreapp3.1\Movie4AllCsharp.pdb
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.dll
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.pdb
+C:\Users\Igor\Desktop\Projetos Entregues\Movie4All\Projeto\Movie4AllCsharp\Movie4AllCsharp\obj\Debug\netcoreapp3.1\Movie4AllCsharp.genruntimeconfig.cache
